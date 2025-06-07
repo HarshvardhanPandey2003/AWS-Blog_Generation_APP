@@ -1,6 +1,8 @@
 # AWS-Blog_Generation_APP
 
 Welcome to the AWS Blog Generation Application! This project leverages AWS services to create a blog generation application. The application uses Lambda functions to handle code execution, API Gateway to connect to other services, Bedrock API for blog generation, S3 Bucket for storing generated responses, and DynamoDB for storing user feedback, which is used to improve subsequent responses.
+![image](https://github.com/user-attachments/assets/0ab75fdd-d1f5-4cd1-8ec0-b90986395585)
+
 
 ## Features
 
